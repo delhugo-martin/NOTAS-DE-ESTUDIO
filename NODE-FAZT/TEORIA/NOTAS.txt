@@ -1,0 +1,2 @@
+correr la app con:
+node index.js
